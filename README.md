@@ -79,4 +79,8 @@ bash start
 ## 💬 Support
 <p align="center"> <a href="https://t.me/AviyaaLogs"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/AviyaaMusic"><img src="https://img.shields.io/badge/-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> </p>
 
+### 📊 Repo Views Counter
+
+![Views](https://profile-counter.glitch.me/Aviyaa/count.svg)
+
 > Built with ❤️ by CYB3RB0I
