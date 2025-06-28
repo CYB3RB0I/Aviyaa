@@ -81,7 +81,7 @@ bash start
 
 <div align="center">
 
-⭐️ Thanks to everyone for using Alexa, 🤭 That is the greatest pleasure we have !
+⭐️ Thanks to everyone for using Aviyaa, 🤭 That is the greatest pleasure we have !
 
 <br>
 
