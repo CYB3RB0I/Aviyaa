@@ -4,7 +4,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from Aviyaa import app
-from Aviyaa.core.call import Anony
+from Aviyaa.core.call import Aviyaa
 from Aviyaa.utils import bot_sys_stats
 from Aviyaa.utils.decorators.language import language
 from Aviyaa.utils.inline import supp_markup
@@ -19,7 +19,7 @@ async def ping_com(client, message: Message, _):
         photo=PING_IMG_URL,
         caption=_["ping_1"].format(app.mention),
     )
-    pytgping = await Anony.ping()
+    pytgping = await Aviyaa.ping()
     UP, CPU, RAM, DISK = await bot_sys_stats()
     resp = (datetime.now() - start).microseconds / 1000
     await response.edit_text(
